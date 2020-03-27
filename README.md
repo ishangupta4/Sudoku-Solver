@@ -17,4 +17,6 @@ Run the executable file after compiling.
 
 ### How it works?
   
-It takes the all the numbers of a sudoku as the input in the form of an array. All you have to do is to enter the allready filled numbers as they are there in the sudoku and zero's (0) in place of blank spaces
+It takes the all the numbers of a sudoku as the input in the form of an array. All you have to do is to enter the allready filled numbers as they are there in the sudoku and zero's (0) in place of blank spaces. A screenshot of how it works is embedded below.
+
+![](screenshots/sudoku_screen.png)
